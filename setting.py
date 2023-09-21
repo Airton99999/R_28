@@ -1,11 +1,11 @@
-valid_email = "airtons@rambler.ru"
+valid_email = ".........."
 valid_password = "25DgTi1qtiCe!5Hr"
-valid_phone = "+79092463279"
-# link = 'https://b2c.passport.rt.ru/auth'
+valid_phone = "............"
 password = '@Dmin123'
 valid_name = 'Иван'
 valid_lastname = 'Иванов'
 region = 'Москва г'
+# link = 'https://b2c.passport.rt.ru/auth'
 
 
 
